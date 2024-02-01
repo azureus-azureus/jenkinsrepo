@@ -1,1 +1,1 @@
- echo "hello world" > /tmp/report
+ echo "automatic build" > /tmp/report
